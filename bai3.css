@@ -1,5 +1,9 @@
 .container{
-    border: 1px solid red ;
-    width: 500px;
+    text-decoration-line: none;
+    border: 2px solid red ;
+    width: 350px;
+    height: 370px;
     background-color: grey;
+    padding: 30px;
+    margin-left: 35%;
 }
