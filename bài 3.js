@@ -1,9 +1,9 @@
-function myFunction() {
-    var a = document.getElementById('text_1').value;
+function myFunction1() {
+    var a = document.getElementById("text_1").value;
     a = parseInt(a);
-    var b = document.getElementById('text_2').value;
+    var b = document.getElementById("text_2").value;
     b = parseInt(b);
-    var c = document.getElementById('select');
+    var c = document.getElementById("select");
     var value = c.options[c.selectedIndex].value;
     value = parseInt(value);
     var k;
